@@ -54,7 +54,7 @@
     "footer": {
         "colors": "colors-f",
         "width": "wide",
-        "title": "Startersd",
+        "title": "Starter",
         "isTitleVisible": true,
         "logo": {
             "type": "ImageBlock",
